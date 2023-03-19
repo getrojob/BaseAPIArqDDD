@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj": {}
+    "C:\\$\\BaseAPIArqDDD\\src\\Api.CrossCutting\\CrossCutting.csproj": {}
   },
   "projects": {
-    "C:\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+    "C:\\$\\BaseAPIArqDDD\\src\\Api.CrossCutting\\CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectUniqueName": "C:\\$\\BaseAPIArqDDD\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "projectName": "CrossCutting",
-        "projectPath": "C:\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
-        "packagesPath": "C:\\Users\\mfrin\\.nuget\\packages\\",
-        "outputPath": "C:\\curso_api_netcore\\src\\Api.CrossCutting\\obj\\",
+        "projectPath": "C:\\$\\BaseAPIArqDDD\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\getulio.r.da.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\$\\BaseAPIArqDDD\\src\\Api.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mfrin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\getulio.r.da.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.425\\RuntimeIdentifierGraph.json"
         }
       }
     }

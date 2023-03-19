@@ -6,3 +6,12 @@ C:\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInf
 C:\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
 C:\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
 C:\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\$\BaseAPIArqDDD\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\$\BaseAPIArqDDD\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\$\BaseAPIArqDDD\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\$\BaseAPIArqDDD\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\$\BaseAPIArqDDD\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\$\BaseAPIArqDDD\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\$\BaseAPIArqDDD\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\$\BaseAPIArqDDD\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\$\BaseAPIArqDDD\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb

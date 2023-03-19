@@ -7,3 +7,12 @@ C:\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.A
 C:\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
 C:\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
 C:\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\$\BaseAPIArqDDD\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.deps.json
+C:\$\BaseAPIArqDDD\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.dll
+C:\$\BaseAPIArqDDD\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\$\BaseAPIArqDDD\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.AssemblyReference.cache
+C:\$\BaseAPIArqDDD\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
+C:\$\BaseAPIArqDDD\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
+C:\$\BaseAPIArqDDD\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
+C:\$\BaseAPIArqDDD\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
+C:\$\BaseAPIArqDDD\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb

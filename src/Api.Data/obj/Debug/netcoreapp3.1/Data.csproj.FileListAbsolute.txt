@@ -7,3 +7,12 @@ C:\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInput
 C:\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
 C:\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
 C:\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\$\BaseAPIArqDDD\src\Api.Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\$\BaseAPIArqDDD\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\$\BaseAPIArqDDD\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\$\BaseAPIArqDDD\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\$\BaseAPIArqDDD\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\$\BaseAPIArqDDD\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\$\BaseAPIArqDDD\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\$\BaseAPIArqDDD\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\$\BaseAPIArqDDD\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
